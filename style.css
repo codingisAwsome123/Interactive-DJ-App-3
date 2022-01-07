@@ -1,0 +1,11 @@
+.note{
+    color: whitesmoke
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    /*padding: ;
+    margin: ;*/
+}
